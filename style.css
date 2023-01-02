@@ -37,7 +37,7 @@
 }
 .nav{position:absolute; }
 .nav li{float:left; }
-.nav li a{display: block; padding:89px 94px 10px 94px;
+.nav li a{display: block; padding:89px 94px 10px 93px;
 }
 .nav li a:hover{color:#eba4af;}
 .nav li:nth-child(3) a{padding:10px 94px 10px 94px;}
